@@ -10,6 +10,8 @@ Trainer Kit, DSO(10MHz) , Patch Cords and Power Supply (0-30V)
 
 ## CIRCUIT DIAGRAM
 
+## MODEL GRAPH
+
 ## TABLE
 
 ## OUTPUT GRAPHS
